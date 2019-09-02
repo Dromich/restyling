@@ -71,7 +71,7 @@ $query = [
     'text' => $bot_message
 ];
 $query1 = [
-    'chat_id' => 381624708 ,
+    'chat_id' => 771015178 ,
     'parse_mode' => 'HTML',
     'text' => $bot_message
 ];
