@@ -211,7 +211,8 @@
             <div>{custom  category="10"  template="service" available="global" navigation="no" from="32" limit="8"  order="date" sort="desc" }</div>
             <div>{custom  category="10"  template="service" available="global" navigation="no" from="40" limit="8"  order="date" sort="desc" }</div>
             <div>{custom  category="10"  template="service" available="global" navigation="no" from="48" limit="8"  order="date" sort="desc" }</div>
-            <div>{custom  category="10"  template="service" available="global" navigation="no" from="56" limit="8"  order="date" sort="desc" }</div>
+			<div>{custom  category="10"  template="service" available="global" navigation="no" from="56" limit="8"  order="date" sort="desc" }</div>
+			<div>{custom  category="10"  template="service" available="global" navigation="no" from="64" limit="8"  order="date" sort="desc" }</div>
 </div>
 
 	<!--div class="owl-carousel"></div-->
