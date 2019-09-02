@@ -155,42 +155,42 @@
 		<div class="row">
 			
  <div class="sec_ttl2"><h2>Послуги</h2></div>
-<div class="col-md-3 relative2" style="background:url({THEME}/img/car11.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; moz-background-size:cover;" data-target-page="/services/4-tonuvannya.html">
+<div class="col-md-3 relative2" style="background:url({THEME}/img/car11.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; " data-target-page="/services/4-tonuvannya.html">
 				<h2>Тонування<br>автомобілів</h2>
 				
 <span class="hovs"></span>
 </div>
-<div class="col-md-3 relative2" style="background:url({THEME}/img/car22.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; moz-background-size:cover;" data-target-page="/services/10-tonuvannya-ofsv-fasadv.html">
+<div class="col-md-3 relative2" style="background:url({THEME}/img/car22.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; " data-target-page="/services/10-tonuvannya-ofsv-fasadv.html">
 				<h2>Тонування офісів<br>та фасадів </h2>
 				
 <span class="hovs"></span>
 </div>
-<div class="col-md-3 relative2" style="background:url({THEME}/img/car33.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; moz-background-size:cover;" data-target-page="/services/7-bronyuvannya-skla.html">
+<div class="col-md-3 relative2" style="background:url({THEME}/img/car33.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; " data-target-page="/services/7-bronyuvannya-skla.html">
 				<h2>Захист<br>лобового скла</h2>
 				
 <span class="hovs"></span>
 </div>
-<div class="col-md-3 relative2" style="background:url({THEME}/img/car4.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; moz-background-size:cover;" data-target-page="/services/8-antigravyniy-zahist.html">
+<div class="col-md-3 relative2" style="background:url({THEME}/img/car4.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; " data-target-page="/services/8-antigravyniy-zahist.html">
 				<h2>Антигравійний<br>захист</h2>
 				
 <span class="hovs"></span>
 </div>
-<div class="col-md-3 relative2" style="background:url({THEME}/img/car5.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; moz-background-size:cover;" data-target-page="/">
+<div class="col-md-3 relative2" style="background:url({THEME}/img/car5.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; " data-target-page="/">
 				<h2>Полірування<br>автомобілів</h2>
 				
 <span class="hovs"></span>
 </div>
-<div class="col-md-3 relative2" style="background:url({THEME}/img/car6.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; moz-background-size:cover;" data-target-page="/services/9-keramchniy-zahist.html">
+<div class="col-md-3 relative2" style="background:url({THEME}/img/car6.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; " data-target-page="/services/9-keramchniy-zahist.html">
 				<h2>Керамічний<br>захист</h2>
 				<img src="{THEME}/img/car6.jpg"  alt="">
 <span class="hovs"></span>
 </div>
-<div class="col-md-3 relative2" style="background:url({THEME}/img/car7.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; moz-background-size:cover;" data-target-page="/services/6-pokleyka-vnlovih-plvok.html">
+<div class="col-md-3 relative2" style="background:url({THEME}/img/car7.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; " data-target-page="/services/6-pokleyka-vnlovih-plvok.html">
 				<h2>Поклейка<br>вінілових плівок</h2>
 				
 <span class="hovs"></span>
 </div>
-<div class="col-md-3 relative2" style="background:url({THEME}/img/car8.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; moz-background-size:cover;" data-target-page="/services/5-brenduvannya.html">
+<div class="col-md-3 relative2" style="background:url({THEME}/img/car8.jpg) no-repeat; background-position: center; background-size:cover;-webkit-background-size:cover; -o-background-size:cover; " data-target-page="/services/5-brenduvannya.html">
 				<h2>Брендування<br>автомобілів</h2>
 				
 <span class="hovs"></span>
