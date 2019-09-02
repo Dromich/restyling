@@ -19,7 +19,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<link rel="stylesheet" href="{THEME}/libs/bootstrap/css/bootstrap-grid.min.css">
+	<link rel="stylesheet" href="{THEME}/libs/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="{THEME}/libs/animate/animate.css">
 	
 	<link rel="stylesheet" href="{THEME}/css/fonts.css">
@@ -330,6 +330,56 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 </div>
 	</div>
 </section>
+
+<div id="Call_me" class="callMe " data-toggle="modal" data-target="#callMeModal">
+		<i class="fa fa-phone" style="font-size:48px;color:#333"></i>
+</div>
+
+
+<div class="modal fade" id="callMeModal" tabindex="-1" role="dialog" aria-labelledby="callMeModal">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+						aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="exampleModalLabel">Замовити дзвінок</h4>
+			</div>
+			<div class="modal-body">
+				<form class="ajax_form" >
+					<!-- Hidden Required Fields -->
+					<input type="hidden" name="project_name" value="дзвінок">
+					<input type="hidden" name="admin_email" value="">
+					<input type="hidden" name="form_subject" value="Дзвінок">
+					<!-- END Hidden Required Fields -->
+
+
+
+					<div class="form-group">
+
+						<input name="Ім'я" type="text" class="form-control" id="recipient-name"
+							placeholder="Ваше ім'я" required>
+					</div>
+
+					<div class="form-group">
+
+						<input name="Телефон" id="calme_phone" type="tel" class="form-control tel_inp" id="recipient-phone"
+							placeholder="Ваш телефон" required>
+					</div>
+					<!-- <div class="form-group">
+						<label for="message-text" class="control-label">Ваші побажання</label>
+						<textarea name="Повідомлення" class="form-control" id="message-text"></textarea>
+					</div> -->
+					<div class="modal-footer">
+						<h4 class="call_fast">Ми перетелефонуємо якомога швидше</h4>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Закрити</button>
+						<button type="submit" class="btn  btn-primary sbm_btn" >Надіслати</button>
+
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
 	<!--div class="hidden"></div>
 
 	<div class="loader">
@@ -346,6 +396,7 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 	<script src="{THEME}/libs/jquery/jquery-1.11.2.min.js"></script>
 	<script src="{THEME}/libs/waypoints/waypoints.min.js"></script>
 	<script src="{THEME}/libs/animate/animate-css.js"></script>
+	<script src="{THEME}/libs/bootstrap/js/bootstrap.min.js"></script>
 	<script src="{THEME}/libs/plugins-scroll/plugins-scroll.js"></script>
 	
 	<script src="{THEME}/js/common.js"></script>
@@ -353,7 +404,8 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 	<script src="{THEME}/js/slider.js"></script>
 	<script src="{THEME}/js/wow.min.js"></script>
 	<script src="{THEME}/js/jquery.themepunch.tools.min.js"></script>
-    <script src="{THEME}/js/owl/owl.carousel.min.js"></script>
+	<script src="{THEME}/js/owl/owl.carousel.min.js"></script>
+	<script src="{THEME}/js/jquery.inputmask.js"></script>
     
     
     <script src="{THEME}/FA/js/fontawesome-all.min.js"></script>

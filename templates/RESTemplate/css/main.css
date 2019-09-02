@@ -91,3 +91,34 @@ h2{font-family:'Fira Sans Extra Condensed', sans-serif;letter-spacing:1px;text-t
 	display: block;
 	position: relative;
 }
+.callMe {
+	width: 80px;
+	height: 80px;
+	background-color: orange;
+	display: block;
+	position: fixed;
+	z-index: 3;
+	right: 20px;
+	bottom: 15px;
+	border-radius: 50%;
+	cursor: pointer;
+	text-align: center;
+	padding-top: 15px;
+	padding-right: 5px;
+}
+.call_fast {
+	width: 100%;
+	display: block;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 10px;
+}
+#Call_me span {
+	font-size: 12px;
+	/* border: 1px solid red; */
+	display: block;
+	margin-top: 8px;
+	margin-left: 5px;
+	line-height: 15px;
+}
